@@ -16,5 +16,3 @@ def get_info():
 
 # for testing of webhook trigger
 # for second testing of webhook trigger
-
-#added trigger points
