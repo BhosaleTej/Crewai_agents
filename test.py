@@ -13,4 +13,5 @@ def get_info():
     return {"public_url": ngrok_url}
 
 
-'this is second push'
+
+# for testing of webhook trigger
