@@ -19,6 +19,5 @@ def get_info():
 #addition function
 def multiplacationds(a,b,e):
     'addiation of two num'
-    'division of the num'
     c = a - c
     return c
