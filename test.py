@@ -17,7 +17,7 @@ def get_info():
 # for third testing of webhook trigger after stash
 
 #addition function
-def adada(a,b):
+def multiplacationds(a,b):
     'addiation of two num'
     c = a * c + b
     return c
