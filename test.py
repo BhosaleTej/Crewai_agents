@@ -17,7 +17,7 @@ def get_info():
 # for third testing of webhook trigger after stash
 
 #addition function
-def multiplacationds(a,b,e):
+def divitiontionds(a,b,e):
     'addiation of two num'
-    c = a - c
+    c = a / b
     return c
