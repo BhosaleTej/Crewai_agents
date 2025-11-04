@@ -19,5 +19,5 @@ def get_info():
 #addition function
 def adad(a,b):
     'addiation of two num'
-    c = a - b
+    c = a * b
     return c
