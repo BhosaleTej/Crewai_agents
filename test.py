@@ -18,6 +18,6 @@ def get_info():
 
 #addition function
 def divitiontionds(a,b,e):
-    'addiation of two num'
+    'addiation of two nu'
     c = a / b
     return c
