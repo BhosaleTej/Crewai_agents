@@ -5,8 +5,8 @@
 
 #addition function
 def divitionis(a,b,e):
-    'addition of ttr numbers'
-    c = a / b
+    'addtion of ttr numbers'
+    c = a / b 
     return c
 
 def additionon(a,b):
@@ -20,6 +20,6 @@ def multiplicion(a,b):
     return c
 
 def substracti(d,e):
-    'substraction of number'
+    'substracti of number'
     f = d / e
     return f
