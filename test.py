@@ -26,6 +26,9 @@ def substracti(d,e):
     return f
 
 def factorial(n):
-    return n* factorial(n-1)
+    return n+factorial(n-1)
+
+def square(n):
+    return n*2
 
 #first commit
