@@ -5,12 +5,12 @@
 
 #addition function
 def divitionis(a,b,e):
-    'addtion of ttr numbers'
+    'divisionsn of ttr numbers'
     c = a / b 
     return c
 
 def additionon(a,b):
-    'addtion hof numbrs'
+    'addtions hof numbrs'
     c = a+b
     return c
 
@@ -20,6 +20,6 @@ def multiplicion(a,b):
     return c
 
 def substracti(d,e):
-    'substracti of number'
+    'substractions of number'
     f = d / e
     return f
