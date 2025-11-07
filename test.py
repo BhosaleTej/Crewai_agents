@@ -4,12 +4,12 @@
 # for third testing of webhook trigger after stash
 
 #addition function
-def divitionios(a,b,e):
+def divitionis(a,b,e):
     'addition of tthr numbers'
     c = a / b
     return c
 
-def additon(a,b):
+def additionon(a,b):
     'addtion of numbrs'
     c = a+b
     return c
