@@ -26,3 +26,8 @@ def addition(a,b):
     'addtion of numbrs'
     c = a+b
     return c
+
+def multiplication(a,b):
+    'mul of numbers'
+    c = a * b
+    return c
