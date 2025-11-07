@@ -17,16 +17,16 @@ def get_info():
 # for third testing of webhook trigger after stash
 
 #addition function
-def divitiontionds(a,b,e):
+def divitiontios(a,b,e):
     'addiation of tthr numbers'
     c = a * e
     return c
 
-def multipliction(a,b):
+def multiplicn(a,b):
     'multiplication of two numbers'
     c = a * b * e
     return c
 
-def facto(n):
-    factorial = n * facto(n-1)
+def fact(n):
+    factorial = n * fact(n-1)
     return factorial
