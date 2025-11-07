@@ -24,9 +24,9 @@ def divitiontionds(a,b,e):
 
 def multipliction(a,b):
     'multiplication of two numbers'
-    c = a * b
+    c = a * b * e
     return c
 
-def fact(n):
-    factorial = n * fact(n-1)
+def facto(n):
+    factorial = n * facto(n-1)
     return factorial
