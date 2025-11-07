@@ -22,6 +22,10 @@ def multiplicion(a,b):
 def substracti(d,e):
     'substractions of number'
     f = d / e
+    #substations
     return f
+
+def factorial(n):
+    return n* factorial(n-1)
 
 #first commit
