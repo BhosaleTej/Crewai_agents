@@ -19,12 +19,12 @@ def get_info():
 #addition function
 def divitiontios(a,b,e):
     'addiation of tthr numbers'
-    c = a * e
+    c = a / b
     return c
 
 def multiplicn(a,b):
     'multiplication of two numbers'
-    c = a * b * e
+    c = a * b
     return c
 
 def fact(n):
