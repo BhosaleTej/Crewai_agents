@@ -5,12 +5,12 @@
 
 #addition function
 def divitionis(a,b,e):
-    'addition of tthr numbers'
+    'addition of ttr numbers'
     c = a / b
     return c
 
 def additionon(a,b):
-    'addtion of numbrs'
+    'addtion hof numbrs'
     c = a+b
     return c
 
