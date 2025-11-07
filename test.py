@@ -5,7 +5,7 @@
 
 #addition function
 def divitionios(a,b,e):
-    'addiation of tthr numbers'
+    'addition of tthr numbers'
     c = a / b
     return c
 
@@ -20,6 +20,6 @@ def multiplication(a,b):
     return c
 
 def substraction(d,e):
-    'substraction of nuber'
+    'substraction of number'
     f = d / e
     return f
