@@ -23,3 +23,5 @@ def substracti(d,e):
     'substractions of number'
     f = d / e
     return f
+
+#first commit
