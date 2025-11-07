@@ -15,11 +15,11 @@ def addition(a,b):
     return c
 
 def multiplication(a,b):
-    'mul of numbers'
+    'multiply of numbers'
     c = a * b
     return c
 
 def substraction(d,e):
-    'substraction of num'
+    'substraction of nuber'
     f = d / e
     return f
