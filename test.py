@@ -21,3 +21,8 @@ def divitionios(a,b,e):
     'addiation of tthr numbers'
     c = a / b
     return c
+
+def addition(a,b):
+    'addtion of numbrs'
+    c = a+b
+    return c
