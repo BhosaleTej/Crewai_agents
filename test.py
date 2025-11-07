@@ -19,5 +19,5 @@ def get_info():
 #addition function
 def divitiontionds(a,b,e):
     'addiation of ttthree numbers'
-    c = a * e
+    c = a * b
     return c
