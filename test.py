@@ -21,12 +21,3 @@ def divitionios(a,b,e):
     'addiation of tthr numbers'
     c = a / b
     return c
-
-def multiplic(a,b):
-    'multiplication of two numbers'
-    c = a * b
-    return c
-
-def fact(n):
-    factorial = n * fact(n-1)
-    return factorial
