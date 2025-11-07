@@ -9,17 +9,17 @@ def divitionios(a,b,e):
     c = a / b
     return c
 
-def addition(a,b):
+def additon(a,b):
     'addtion of numbrs'
     c = a+b
     return c
 
-def multiplication(a,b):
+def multiplicion(a,b):
     'multiply of numbers'
     c = a * b
     return c
 
-def substraction(d,e):
+def substracti(d,e):
     'substraction of number'
     f = d / e
     return f
