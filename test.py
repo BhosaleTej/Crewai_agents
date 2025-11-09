@@ -10,7 +10,7 @@ def divitionis(a,b,e):
     return c
 
 def additionon(a,b):
-    'addtions hof numbrs'
+    'addtions the numbrs'
     c = a+b
     return c
 
@@ -44,7 +44,7 @@ def find_duplicates(nums):
                 count += 1
         if count > 1 and nums[i] not in duplicates:
             duplicates.append(nums[i])
-            #finds duplicates
+            #finds duplicate
     return duplicates
 
 #first commit
