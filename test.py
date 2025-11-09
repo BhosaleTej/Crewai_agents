@@ -31,4 +31,8 @@ def factorial(n):
 def square(n):
     return n*2
 
+def cub(n):
+    #cube of number
+    return n*3
+
 #first commit
