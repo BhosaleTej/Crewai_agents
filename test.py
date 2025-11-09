@@ -35,5 +35,15 @@ def cub(n):
     #cube of number
     return n*3
 
+def find_duplicates(nums):
+    duplicates = []
+    for i in range(len(nums)):
+        count = 0
+        for j in range(len(nums)):
+            if nums[i] == nums[j]:
+                count += 1
+        if count > 1 and nums[i] not in duplicates:
+            duplicates.append(nums[i])
+    return duplicates
 
 #first commit
