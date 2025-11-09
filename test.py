@@ -44,6 +44,7 @@ def find_duplicates(nums):
                 count += 1
         if count > 1 and nums[i] not in duplicates:
             duplicates.append(nums[i])
+            #finds duplicates
     return duplicates
 
 #first commit
