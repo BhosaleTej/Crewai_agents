@@ -45,8 +45,9 @@ def find_duplicates(nums):
         if count > 1 and nums[i] not in duplicates:
             duplicates.append(nums[i])
             #finds duplicates
-            #seconds duplicates
+            #seconds
 
     return duplicates
 
 #first commit
+#second
