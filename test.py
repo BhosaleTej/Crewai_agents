@@ -51,5 +51,3 @@ def find_duplicates(nums):
 
 #first commit
 #second commit 
-#third commit
-
