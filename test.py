@@ -51,4 +51,4 @@ def find_duplicates(nums):
 
 #first commit
 #ss te
-#this will worksaX
+#this will w
