@@ -50,4 +50,4 @@ def find_duplicates(nums):
     return duplicates
 
 #first commit
-#ss te
+#second commit
