@@ -52,5 +52,4 @@ def find_duplicates(nums):
 #first commit test
 # commit testaksxaasca
 #SDSASXAS
-#scxkasxakxghf ascasxa saxa dcsdcsacsc
-#jsavcjascxjavcxjabxjax
+#scxkasxakxghf ascasxa saxa dcsdcsacs
